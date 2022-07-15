@@ -1,1 +1,2 @@
-## npm install 安装node_modules
+## 安装node_modules
+``` npm install ```
